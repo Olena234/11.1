@@ -13,7 +13,7 @@ import Html from '../client/html'
 const Root = () => ''
 
 try {
-  // eslint-disable-next-line import/no-unresolved
+ 
   // ;(async () => {
   //   const items = await import('../dist/assets/js/root.bundle')
   //   console.log(JSON.stringify(items))
