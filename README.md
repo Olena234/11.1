@@ -18,7 +18,7 @@
   ```shell
   $ npm install
   ```
-3. Create first build
+3. Create first build:
 
   ```shell
   $ yarn run build:prod
